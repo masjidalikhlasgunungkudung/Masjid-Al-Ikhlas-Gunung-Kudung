@@ -1,0 +1,7 @@
+{
+  "name": "Masjid Al-Ikhlas Gunung Kudung KM 145",
+  "description": "Website Resmi & Pusat Informasi Layanan Ibadah, Rest Area Musafir, Jadwal Sholat Real-Time, dan Transparansi Infaq Masjid Al-Ikhlas Gunung Kudung KM 145, Kutai Timur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
