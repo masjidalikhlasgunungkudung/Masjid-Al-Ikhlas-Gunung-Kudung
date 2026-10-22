@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://masjidalikhlasgunungkudung.netlify.app/sitemap.xml
